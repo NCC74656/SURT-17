@@ -1,5 +1,5 @@
 Import java program "ProtoXBOXSenderSurt"
 Import referenced libraries and dll files to Java program
-Open Robot_Control in Arduino
-Attach our robot to the computer
+Open Robot_Control in Arduino (don't run yet)
+Attach our robot to the computer via either usb or other tether.
 Run Java and then Arduino
